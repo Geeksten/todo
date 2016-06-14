@@ -9,8 +9,8 @@ A to-do list webapp.
 
 ###Home Page
 * Displays to do list
-![homepage](/static/img/todolist.png)
+![homepage](collection/static/img/todolist.png)
 
 ###Admin page
 *Logged in user can add new tasks to the todo list
-![adminpage](/static/img/adminpage)
+![adminpage](collection/static/img/adminpage)
