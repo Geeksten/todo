@@ -13,4 +13,4 @@ A to-do list webapp.
 
 ###Admin page
 *Logged in user can add new tasks to the todo list
-![adminpage](collection/static/images/adminpage)
+![adminpage](collection/static/images/adminpage.png)
