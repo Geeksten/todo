@@ -6,3 +6,11 @@ A to-do list webapp.
 * SQLite
 * HTML
 * CSS
+
+###Home Page
+* Displays to do list
+![homepage](/static/img/todolist.png)
+
+###Admin page
+*Logged in user can add new tasks to the todo list
+![adminpage](/static/img/adminpage)
